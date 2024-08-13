@@ -1,0 +1,4 @@
+cv2
+pandas
+numpy
+pytorch=0.4.1
